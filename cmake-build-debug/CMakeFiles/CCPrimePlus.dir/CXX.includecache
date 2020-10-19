@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/idzforjh/资料/mywork/CCPrimePlus/Drill/src/myFirst.cpp
+myFirst.h
+/Users/idzforjh/资料/mywork/CCPrimePlus/Drill/src/myFirst.h
+iostream
+-
+
+/Users/idzforjh/资料/mywork/CCPrimePlus/Drill/src/myFirst.h
+
